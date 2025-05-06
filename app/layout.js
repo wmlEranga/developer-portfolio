@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Lahiru Wijesinghe | Portfolio",
   description:
-    "I’m Lahiruy Wijesinghe, an undergraduate student of Computer Engineering at the University of Sri Jayewardenepura. I have a keen interest in Software Engineering and AI Engineering, and I’m passionate about creating innovative solutions through technology. My academic journey is centered around developing skills in software development, machine learning, and artificial intelligence, with a deep drive to build systems that improve the way we live and work.",
+    "I’m Lahiru Wijesinghe, an undergraduate student of Computer Engineering at the University of Sri Jayewardenepura. I have a keen interest in Software Engineering and AI Engineering, and I’m passionate about creating innovative solutions through technology. My academic journey is centered around developing skills in software development, machine learning, and artificial intelligence, with a deep drive to build systems that improve the way we live and work.",
 };
 
 export default function RootLayout({ children }) {

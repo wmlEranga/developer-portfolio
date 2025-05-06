@@ -3,7 +3,7 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Software Developer",
   description:
-    "I’m Lahiruy Wijesinghe, an undergraduate student of Computer Engineering at the University of Sri Jayewardenepura. I have a keen interest in Software Engineering and AI Engineering, and I’m passionate about creating innovative solutions through technology. My academic journey is centered around developing skills in software development, machine learning, and artificial intelligence, with a deep drive to build systems that improve the way we live and work.",
+    "I’m Lahiru Wijesinghe, an undergraduate student of Computer Engineering at the University of Sri Jayewardenepura. I have a keen interest in Software Engineering and AI Engineering, and I’m passionate about creating innovative solutions through technology. My academic journey is centered around developing skills in software development, machine learning, and artificial intelligence, with a deep drive to build systems that improve the way we live and work.",
   email: "wml.eranga@gmail.com",
   phone: "+94765237782",
   address: "666/1, Detiyamulla, Mandapola,  Sri Lanka",
