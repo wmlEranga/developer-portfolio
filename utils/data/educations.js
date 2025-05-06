@@ -1,20 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "BSc Engineering Honours in Computer Engineering",
     duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: "University of Sri Jayewardenepura",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "G.C.E. Advanced Level – Mathematics Stream",
+    duration: "2018",
+    institution: "Central College, Kuliyapitiya (DR - 96)",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+];
