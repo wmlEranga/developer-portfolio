@@ -14,5 +14,6 @@ export const personalData = {
   stackOverflow: "https://stackoverflow.com/users/30456386/lahiru-wijesinghe",
   hackerrank: "https://www.hackerrank.com/profile/wml_eranga",
   devUsername: "wmlEranga",
-  resume: "https://drive.google.com/",
+  resume:
+    "https://drive.google.com/file/d/1f3s2wxG5DlRibtdzM-3euKpSFTNID3tz/view?usp=sharing",
 };
