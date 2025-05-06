@@ -1,0 +1,28 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Project card transition effects */
+.project-card {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+  will-change: transform, opacity;
+  position: relative;
+}
+
+.project-card:not(.active):hover {
+  opacity: 0.85 !important;
+  transform: scale(0.97);
+}
+
+/* Ensure space for phantom cards */
+.phantom-card {
+  visibility: visible;
+  pointer-events: auto;
+}

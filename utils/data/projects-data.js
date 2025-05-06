@@ -53,6 +53,7 @@ export const projectsData = [
     code: "",
     demo: "",
   },
+
   {
     id: 5,
     name: "MindWatch",
