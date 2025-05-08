@@ -15,5 +15,5 @@ export const personalData = {
   hackerrank: "https://www.hackerrank.com/profile/wml_eranga",
   devUsername: "wmlEranga",
   resume:
-    "https://drive.google.com/file/d/13z8K70MoPypby2XVEM9YTbpqHGTOUEYN/view?usp=sharing",
+    "https://drive.google.com/file/d/1A5qoSq_IMUAtUfr4j24s4oRM4-mmabar/view?usp=sharing",
 };

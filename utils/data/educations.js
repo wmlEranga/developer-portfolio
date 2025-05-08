@@ -8,7 +8,7 @@ export const educations = [
   {
     id: 2,
     title: "G.C.E. Advanced Level – Mathematics Stream",
-    duration: "2018",
+    duration: "2019",
     institution: "Central College, Kuliyapitiya (DR - 96)",
   },
 ];
